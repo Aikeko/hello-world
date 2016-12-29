@@ -1,3 +1,2 @@
 # hello-world
-Short description. Wow.
-Magical unicorns galore!
+Stuff to play around with
